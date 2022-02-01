@@ -1,2 +1,4 @@
 # exercicios
-Repositorio para exercicios em C++
+Repositorio para exercicios
+Calculadora em C++
+
