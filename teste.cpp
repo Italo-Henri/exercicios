@@ -1,5 +1,5 @@
 //Meu primeiro programa em C++
-//Calculadora
+//Calculadora em C++
 #include <iostream>
 
 using namespace std;
